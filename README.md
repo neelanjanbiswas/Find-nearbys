@@ -6,6 +6,7 @@ This is a python project, I created using Open Street Map api
 		 1. How many Schools, Names of them and which one is nearest to you
 		 2. How many Malls, Names of them and which one is nearest to you
 		 1. How many Rail Stations, Names of them and which one is nearest to you
+   	and print all those schhols, malls,stations name in a .csv file for later use 
    
    NOTE: in can calculate only in the radius of 5km of that place 
 ]

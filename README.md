@@ -7,7 +7,7 @@ This is a python project, I created using Open Street Map api
 		 2. How many Malls, Names of them and which one is nearest to you
 		 1. How many Rail Stations, Names of them and which one is nearest to you
    
-   NOTE: in can calculate only in the radius of 5km of that place
+   NOTE: in can calculate only in the radius of 5km of that place 
 ]
 
 

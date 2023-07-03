@@ -21,4 +21,10 @@ This is a python project, I created using Open Street Map api
 	   ( to change the name of .csv file change the file name "your_places" to your desired name in line 405)
 ]
 
- 
+
+I've tested it with  this areas:
+Gurgaon:
+palam vihar, Leisure Valley Park, Aravali Biodiversity Park, Damdama Lake, DLF phase 2
+
+KOlkata:
+DUm DUm, Naihati 

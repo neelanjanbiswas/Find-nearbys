@@ -11,7 +11,7 @@ This is a python project, I created using Open Street Map api
    NOTE: in can calculate only in the radius of 5km of that place 
 ]
 
-
+[only for who is using open street api(find your location.py]
 [Problems: It can only find the nearest Schools if there are max 4 schools in the radius of 5 km otherwise
            it can't fetch data to find the nearest,
 		same as  Max 3 malls to find nearby and 3 railway stations to find nearby
@@ -22,10 +22,15 @@ This is a python project, I created using Open Street Map api
 	   ( to change the name of .csv file change the file name "your_places" to your desired name in line 405)
 ]
 
+[if you are using google maps api
+No problems found...
+but make sure put your input like placename,city name(if your city can't find by api)
+]
+
 
 I've tested it with  this areas:
 Gurgaon:
 palam vihar, Leisure Valley Park, Aravali Biodiversity Park, Damdama Lake, DLF phase 2
 
 KOlkata:
-DUm DUm, Naihati 
+DUm DUm, Naihati,Barrackpore

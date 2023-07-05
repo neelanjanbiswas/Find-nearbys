@@ -1,5 +1,5 @@
 # Find-nearbys
-This is a python project, I created using Open Street Map api 
+This is a python project, I created using Open Street Map api and also with goolgle maps api
 
 [AIM:- In here program expects an input of a place if that place exist in real world it will
 	gives the output of
@@ -22,9 +22,9 @@ This is a python project, I created using Open Street Map api
 	   ( to change the name of .csv file change the file name "your_places" to your desired name in line 405)
 ]
 
-[if you are using google maps api
+[if you are using google maps api(g_maps_api.py
 No problems found...
-but make sure put your input like placename,city name(if your city can't find by api)
+but make sure put your input like placename,city name(if your place can't find by api)
 ]
 
 

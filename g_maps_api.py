@@ -7,7 +7,7 @@ city = input("Enter your place: ")  # Prompt the user to enter the city name
 
 params = {
     'address': city,
-    'key': 'AIzaSyABpAsoBgH3DBlPTZwlF739MnlMBMtgJow'
+    'key': 'PLEASE WRITE YOUR OWN API KEY'
 }
 
 response = requests.get(geocode_url, params=params)

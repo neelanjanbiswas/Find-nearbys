@@ -2,7 +2,7 @@
 This is a python project, I created using Open Street Map api and also with goolgle maps api
 (open Street Map api is in find your location.py file  and google api is in  g_maps_api.py)
 
-{Remember if you are using g_maps_api  please paste your own api key to the program section}
+{Remember if you are using g_maps_api  please paste your own api key to the program section [params section (Line 10)]
 
 [AIM:- In here program expects an input of a place if that place exist in real world and it will
 	give the output of
